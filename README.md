@@ -139,7 +139,7 @@ Updating the shopping list status and processing payments.
 
 This diagram illustrates system behavior, including conditional logic (alt, if-else), loops, and synchronous interactions.
 
-7. Key Takeaways
+**Key Takeaways**
 
 Through this project, I have strengthened my Object-Oriented Analysis (OOA) and UML modeling skills. Specifically:
 
