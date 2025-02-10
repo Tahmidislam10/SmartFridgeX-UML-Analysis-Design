@@ -1,6 +1,6 @@
-![image](https://github.com/user-attachments/assets/e8afb648-4f77-4d52-aa5f-48430bf0fc40)SmartFridgeX-Analysis
+**SmartFridgeX-Analysis**
 
-1. Project Overview
+**Project Overview**
 
 SmartFridgeX is an advanced smart fridge software system designed to enhance food inventory management, automate shopping lists, and integrate with online supermarkets. This repository showcases the object-oriented analysis (OOA) and UML modeling of the SmartFridgeX system using Visual Paradigm. The project focuses on key aspects such as use case modeling, class diagrams, sequence diagrams, and system interactions.
 
@@ -18,7 +18,9 @@ To visualize real-time interactions through a Use Case Realization (Sequence Dia
 
 To demonstrate expertise in UML modeling for software design and development.
 
-2. User Requirements (Volere Template)
+**2. User Requirements (Volere Template)**
+
+
 ![image](https://github.com/user-attachments/assets/dae9636e-fa08-49a1-b455-50946bea9826)
 
 
@@ -33,7 +35,8 @@ Non-Functional Requirement (NFR): The system must be secure, adhering to industr
 
 The rationale behind these requirements is to streamline food inventory management while maintaining security and compliance.
 
-3. Use Case Diagram
+
+**Use Case Diagram**
 ![image](https://github.com/user-attachments/assets/52f9befa-36c6-45b6-9fce-036b44bae0c8)
 
 
@@ -60,7 +63,7 @@ View Reports: Generate reports on consumption patterns.
 
 Key relationships like "include", "extend", and generalization enhance the clarity of system interactions.
 
-4. Use Case Specifications
+**Use Case Specifications**
 ![image](https://github.com/user-attachments/assets/00b63ba2-5c4b-4c18-8123-c30fab7fde1c)
 ![image](https://github.com/user-attachments/assets/cd5b110b-8fbb-42cc-b5ac-518264f978de)
 ![image](https://github.com/user-attachments/assets/cceeca53-6c22-40d6-9732-c52fd24ee076)
@@ -91,7 +94,7 @@ The inventory is updated, and the shopping list is archived.
 
 Alternative Flows: Handling missing or incorrect item deliveries.
 
-5. Analysis Class Diagram
+**Analysis Class Diagram**
 ![image](https://github.com/user-attachments/assets/f45c2f82-e725-4f77-8647-a2f84b1f652c)
 
 
@@ -108,7 +111,9 @@ Control Classes: InventoryManager, ShoppingListManager, BarcodeScannerController
 
 It also defines key relationships like inheritance, association, and multiplicity, demonstrating a well-structured design pattern.
 
-6. Use Case Realization (Sequence Diagram)
+**Use Case Realization (Sequence Diagram)**
+
+   
 ![image](https://github.com/user-attachments/assets/66de50b4-e5ae-4f3c-a0c6-723510937ece)
 
 
