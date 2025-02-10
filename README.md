@@ -18,7 +18,7 @@ To visualize real-time interactions through a Use Case Realization (Sequence Dia
 
 To demonstrate expertise in UML modeling for software design and development.
 
-**2. User Requirements (Volere Template)**
+**User Requirements (Volere Template)**
 
 
 ![image](https://github.com/user-attachments/assets/dae9636e-fa08-49a1-b455-50946bea9826)
