@@ -64,6 +64,9 @@ View Reports: Generate reports on consumption patterns.
 Key relationships like "include", "extend", and generalization enhance the clarity of system interactions.
 
 **Use Case Specifications**
+
+
+
 ![image](https://github.com/user-attachments/assets/00b63ba2-5c4b-4c18-8123-c30fab7fde1c)
 ![image](https://github.com/user-attachments/assets/cd5b110b-8fbb-42cc-b5ac-518264f978de)
 ![image](https://github.com/user-attachments/assets/cceeca53-6c22-40d6-9732-c52fd24ee076)
