@@ -155,5 +155,5 @@ Visual Paradigm Mastery: Gained experience using UML tools for professional soft
 
 These skills are essential for software architecture, system design, and full-stack development, ensuring efficient and scalable software solutions.
 
-Thank you for checking out my project! 🚀
+Thank you for checking out my project! 
 
